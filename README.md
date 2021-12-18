@@ -2,7 +2,7 @@
 Es la tercer tarea del Primer Parcial de mi materia de Análisis y Procesamiento de Imágenes
 
 Instrucciones
-- 1. Acomodar la sintaxis de ascii art del corazón para que ahora sea una matriz.
+- 1 Acomodar la sintaxis de ascii art del corazón para que ahora sea una matriz.
 - 2. Intercambiar los unos por ceros y los ceros por unos.
 - 3. Investigar y aplicar una función o forma de imprimir para que el negativo logrado se imprima en forma de matriz en la terminal. No importa si tiene las comas o no las tiene, simplemente que se aprecie el corazón.
 
