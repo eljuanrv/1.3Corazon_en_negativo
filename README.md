@@ -8,8 +8,8 @@ Instrucciones
 
 
 Entregables:
-- 1 El programa desarrollado (MalagonSSt1.3v1.py).
-- 2 Captura de pantalla del corazón en negativo impresa en forma matricial en la terminal (MalagonSSt1.3v1.jpg, *.png)
+- 1 El programa desarrollado (RIVERAVJt1.3v1.py).
+- 2 Captura de pantalla del corazón en negativo impresa en forma matricial en la terminal (RIVERAVJt1.3v1.jpg, *.png)
 
 
 PD: Ya despues aprendo Markdown y le doy formato bonito
